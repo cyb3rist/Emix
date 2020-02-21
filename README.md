@@ -15,5 +15,5 @@ V 1.0.3 <br>
 -monthly updates <br>
  <br>
 =========================<br>
-| Next Major update - Voice Capability |<br>
+| Next Major update - Hover Capability |<br>
 =========================<br>
